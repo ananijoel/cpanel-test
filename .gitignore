@@ -1,0 +1,4 @@
+.htaccess
+.well-known/
+stderr.log
+tmp/
